@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the better ordering and managing the estates of papists &amp; delinquents. Die Veneris, 25 Januarii, 1649. Ordered by the Parliament, that John Field printer, nominated by Mr. Speaker, be joyned with Mr. Husbands stationer, in printing the Act for the better ordering and managing the estates of papists and delinquents, and all other acts and proceedings in Parliament; and that his name be used in printing of the said act, and all other acts and proceedings: and that the said John Field have equal benefit in printing accordingly. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74355</idno>
+            <idno type="STC">Thomason E1060_78</idno>
+            <idno type="STC">ESTC R208802</idno>
+            <idno type="EEBO-CITATION">99867725</idno>
+            <idno type="PROQUEST">99867725</idno>
+            <idno type="VID">120047</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 120047)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[78])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the better ordering and managing the estates of papists &amp; delinquents. Die Veneris, 25 Januarii, 1649. Ordered by the Parliament, that John Field printer, nominated by Mr. Speaker, be joyned with Mr. Husbands stationer, in printing the Act for the better ordering and managing the estates of papists and delinquents, and all other acts and proceedings in Parliament; and that his name be used in printing of the said act, and all other acts and proceedings: and that the said John Field have equal benefit in printing accordingly. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 669-680, [1];  [i.e. 15] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Husband and John Field, printers to the Parliament of England, and are to be sold at the Golden Dragon in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649 [i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On 6H2: the last word of first line of text: 'Eng-'; first word of line below initial: 'authority'; last word of last full line of text: 'ordinance'.</note>
+                  <note>Also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>Signatures: 6H-6I⁴.</note>
+                  <note>Ornament on t.p.; initial letter;  text in black letter.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Confiscations and contributions --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:120047:1" rendition="simple:additions"/>
+            <p>AN ACT FOR The better Ordering and Managing THE ESTATES OF Papiſts &amp; Delinquents.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <date>
+                              <hi>Die Veneris,</hi> 25 <hi>Januarii,</hi> 1649.</date>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Parliament,</hi> That <hi>John Field</hi> Printer, nominated by Mr. Speaker, be joyned with Mr. <hi>Husbands</hi> Stationer, in Printing the <hi>Act for the better Ordering and Managing the Eſtates of Papiſts and Delinquents,</hi> and all other Acts and Proceedings in Parliament; and that his Name be uſed in Printing of the ſaid Act, and all other Acts and Proceedings: And that the ſaid <hi>John Field</hi> have equal benefit in Printing accordingly.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London:</hi> Printed by <hi>Edward Huſband</hi> and <hi>John Field,</hi> Printers to the Parliament of <hi>England,</hi> and are to be ſold at the Golden Dragon in Fleetſtreet. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:120047:2"/>
+            <pb n="669" facs="tcp:120047:2"/>
+            <head>AN ACT FOR The better Ordering and Managing THE ESTATES OF Papiſts &amp; Delinquents.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> now aſſembled be<g ref="char:EOLhyphen"/>ing deſirous to improve the Sequeſtrations, and the Profits ariſing there<g ref="char:EOLhyphen"/>upon, to the uſe of the Commonwealth, in order to ſome abatement of the Aſſeſſments, Do. Enact, and be it Enacted by the Authority aforeſaid, That from and after the Twentieth day of <hi>December,</hi> One thouſand ſix hundred forty and nine, the ordering, managing, letting, ſetting and diſpoſing of the Eſtates of Papiſts and Delinquents, ſhall be, and is hereby ſetled in the Commiſſioners for Compounding with Delinquents, in ſuch ſort as is hereafter expreſſed; and that the ſaid Commiſſioners for Compounding, ſhall have and exerciſe all ſuch power and authority, in and about the Seque<g ref="char:EOLhyphen"/>ſtring, ordering and diſpoſing of ſuch Eſtates, as have been formerly granted by any Ordinance
+<pb n="670" facs="tcp:120047:3"/>or Act of Parliament for Sequeſtrations, to any Committee for Sequeſtrations; and that the whole Rents, Revenues and Profits of the ſaid Sequeſtrations and Sequeſtred Eſtates, ſhall be paid in to the Treaſury at <hi>Goldſmiths.</hi> hall, for the onely uſe, intent and purpoſe as is above<g ref="char:EOLhyphen"/>ſaid. And be it further Enacted, That the Com<g ref="char:EOLhyphen"/>mittees for Sequeſtrations, Solicitors, Trea<g ref="char:EOLhyphen"/>ſurers, Sequeſtrators, Agents, Collectors, and all others herein concerned, in the ſeveral Coun<g ref="char:EOLhyphen"/>ties and places within this Commonwealth, ſhall within ſix weeks after notice from the ſaid Com<g ref="char:EOLhyphen"/>miſſioners for Compounding, certifie by Dupli<g ref="char:EOLhyphen"/>cate one part unto the ſaid Commiſſioners for Compounding, and the other to the ſaid Com<g ref="char:EOLhyphen"/>miſſioners to be appointed for Sequeſtrations in the ſaid ſeveral Counties and places, the names of all and every perſon, as well Papiſts as De<g ref="char:EOLhyphen"/>linquents, who are or have been ſequeſtred, and what Eſtate hath been ſo ſequeſtred and ſeized, and when; and for ſuch as have been ſince diſ<g ref="char:EOLhyphen"/>charged from Sequeſtration, or the Sequeſtra<g ref="char:EOLhyphen"/>tions taken off or ſuſpended, either by the Com<g ref="char:EOLhyphen"/>mittees of the reſpective Counties or otherwiſe, to certifie when, how, and by what means the ſame were diſcharged, taken off or ſuſpended; and for ſuch as do ſtill remain under Sequeſtra<g ref="char:EOLhyphen"/>tion, to certifie what Eſtates they have, and in what Towns and Pariſhes, and what Leaſes have been made of the ſaid Eſtates, and to whom, and for what time, and under what Rent, and what Charges and Incumbrances do lie upon the ſaid Eſtates, and what allow<g ref="char:EOLhyphen"/>ances and defalkations have been made out of any ſuch Eſtates, and to whom, and by what Order or Warrant, and what Rents, and ar<g ref="char:EOLhyphen"/>rerages
+<pb n="671" facs="tcp:120047:3"/>of Rent, and other profits of the Lands or Eſtates of the ſaid Papiſts or Delin<g ref="char:EOLhyphen"/>quents, do remain in the hands of any the Sequeſtrators, or any of their Officers or Agents, and what Rents and profits thereof remain in the hands of any of the Tenants of the ſaid Lands; which particulars ſhall be returned and certified in ſuch maner and form as ſhall be from time to time directed by the ſaid Commiſsioners for Compounding. And be it Enacted by the authority aforeſaid, That from and after the Five and twen<g ref="char:EOLhyphen"/>tieth day of <hi>January,</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty and nine, All Committees for Seque<g ref="char:EOLhyphen"/>ſtrations, Treaſurers and Solicitors for Se<g ref="char:EOLhyphen"/>queſtrations, and all and every perſon and per<g ref="char:EOLhyphen"/>ſons imployed by them, or any of them, in and about the ſaid Sequeſtrations, or ſequeſtred Eſtates, ſhall ceaſe and forbear to act in and about the ſaid Sequeſtrations, by vertue or colour of any the Orders and Ordinances of Sequeſtrations heretofore made; and ſhall not from henceforth let, ſet, ſequeſter, ſeize or diſ<g ref="char:EOLhyphen"/>poſe of the ſaid ſequeſtred Eſtates, or any part thereof; nor ſhall receive any Rents, or other profits of the ſaid ſequeſtred Eſtates, or any part thereof; nor ſhall make any Wood-ſales, or fell any Woods, or Vnderwoods, Timber or Trees, in or upon the ſame Eſtates; nor ſhall make payment or allowance of any Rents or charges impoſed or lying upon the ſaid ſequeſtred Eſtates, but that the managing, letting, ſetting, diſpoſing and ordering of the ſaid Eſtates, ſhall be in the Commiſſioners for Compounding, and in ſuch perſons as ſhall be by them from time to time nominated and appointed: And that the
+<pb n="672" facs="tcp:120047:4"/>ſaid Sequeſtrators, Treaſurers and Solicitors for Sequeſtrations, and all other perſons im<g ref="char:EOLhyphen"/>ployed by them; and all and every the Farmers and Tenants of the ſaid ſequeſtred Eſtates, and all other perſons that have any part of the Rents, or other profits of the ſaid ſeque<g ref="char:EOLhyphen"/>ſtred Eſtates in their hands, ſhall forthwith pay the ſame to the Treaſurers of the ſaid Treaſury at <hi>Goldſmiths</hi>-Hall; whoſe Acquit<g ref="char:EOLhyphen"/>tance ſhall be a ſufficient diſcharge to the ſaid parties ſo paying in the ſame, for ſo much as ſhall be ſo paid in by them as aforeſaid; and if they or any of them ſhall make default, or neglect to pay the ſame as aforeſaid, before the firſt day of <hi>April,</hi> One thouſand ſix hundred and fifty, That they and every of them ſo making de<g ref="char:EOLhyphen"/>fault, ſhall forfeit unto the Commonwealth, ſo much more as the ſaid Commiſſioners for Com<g ref="char:EOLhyphen"/>pounding ſhal think fit, not exceeding the moyety of ſuch Moneys as ſhall be diſcovered to be re<g ref="char:EOLhyphen"/>maining in any of their hands, or due from them upon Accompt, to be levyed upon their Lands, Goods and Chattels, by Order of the ſaid Commiſſioners for Compounding: And all Committees, Solicitors, Sequeſtrators, and others appointed by any former Ordinance or Act of Parliament, are hereby required to ſuffer ſuch perſons as ſhall be appointed Com<g ref="char:EOLhyphen"/>miſſioners for Sequeſtrations by the ſaid Com<g ref="char:EOLhyphen"/>miſſioners for Compounding, to peruſe their Books and Papers, that ſo they may be the better enabled to carry on the work of Seque<g ref="char:EOLhyphen"/>ſtration againſt Delinquents: And if the ſaid Committees, Solicitors, Sequeſtrators, or others imployed by them, refuſe to yield obe<g ref="char:EOLhyphen"/>dience to this, or any other matter or thing in
+<pb n="673" facs="tcp:120047:4"/>this Act required, Then the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners for Compounding, or any ſeven of them, are hereby enabled and required to ſend for ſuch perſon or perſons, or otherwiſe to cauſe them to be kept in ſafe cuſtody, until ſuch time as they ſhall conform themſelves in the premiſes, and ſhall pay ſuch Fine as ſhall be impoſed on them by the ſaid Commiſsioners for Com<g ref="char:EOLhyphen"/>pounding, or any ſeven of them, ſo as the ſaid Fine exceed not the ſum of Forty pounds for any one offence. And it is further Enacted, That the ſaid Commiſſioners for Compounding, or any ſéven of them, ſhall nominate, ſubſtitute and appoint, under their or any ſeven of their hands and Seals, ſuch and ſo many fit and able perſons in every county, city and place within this Commonwealth, being Inhabi<g ref="char:EOLhyphen"/>tants there, as have adhered to the Parliament from the beginning of the late Wars unto this day, to be Commiſsioners for Sequeſtrations within the ſaid ſeveral and reſpectioned, as they ſhall ſee fit; As alſo ſuch other Officers and Agents, as ſhall be neceſſary for the carrying on of this ſervice, and to remove any of them as they ſhall ſee cauſe; which ſaid perſons ſo nominated, ſubſtituted and appointed to be Commiſsioners for Sequeſtrations as afore<g ref="char:EOLhyphen"/>ſaid, or ſo many of them as the Commiſsio<g ref="char:EOLhyphen"/>uers for Compounding ſhall appoint, ſhall ac<g ref="char:EOLhyphen"/>cording to ſuch Inſtructions and Orders, in purſuance of any Acts or Ordinances of Par<g ref="char:EOLhyphen"/>liament, as they ſhall from time to time receive from the ſaid Commiſsioners for Compound<g ref="char:EOLhyphen"/>ing, in purſuance of the ſaid Acts and Ordinan<g ref="char:EOLhyphen"/>ces, Sequeſter into the hands of the Common<g ref="char:EOLhyphen"/>wealth,
+<pb n="674" facs="tcp:120047:5"/>the Eſtates of all Papiſts in Arms, and other Delinquents, and two parts in three parts to be divided, of the Eſtates of all other Papiſts as are already adjudged to be Delinquents or Papiſts reſpectively, or ſhall by the ſaid Com<g ref="char:EOLhyphen"/>miſſioners for Compounding be adjudged to be ſuch; and enter into and Survey the ſame. E<g ref="char:EOLhyphen"/>ſtates, and conſider how the ſame Eſtates may be improved, to the beſt advantage of the Com<g ref="char:EOLhyphen"/>monwealth, and what profits may convenient<g ref="char:EOLhyphen"/>ly be raiſed by Woodſales, or otherwiſe out of the ſaid ſequeſtred Eſtates, and ſhall certifie the ſame to the ſaid Commiſſioners for Com<g ref="char:EOLhyphen"/>pounding; by and according to whoſe Order and Direction, grounded upon ſuch Survey and Certificate as aforeſaid, The ſaid Commiſſio<g ref="char:EOLhyphen"/>ners for Sequeſtrations, or ſo many of them as the Commiſſioners for Compounding ſhall appoint as aforeſaid, ſhall or may contract for the ſame ſequeſtred Eſtates of Delinquents and Papiſts in Arms, or any part thereof, to be letten to ſuch fit and able perſon or perſons as will give the beſt Rent for the ſame, for any term not exceeding the number of Seven years in poſſeſsion, for ſuch yearly Rent as ſhall be agreed upon, if the Eſtate of ſuch Delinquents or Papiſts in Arms ſhall ſo long continue, the ſaid Rent to be paid according to the uſual days of payment, to the ſaid Treaſurers at <hi>Gold<g ref="char:EOLhyphen"/>ſmiths</hi>-Hall; and the ſaid Leaſes either to be made under the Hands and Seals of the ſaid Commiſsioners for Compounding, or any ſeven of them, or under the Hands and Seals of the ſaid Commiſſioners for Sequeſtrations, as ſhall be appointed by Order of the ſaid Com<g ref="char:EOLhyphen"/>miſsioners for Compounding, or any ſeven of
+<pb n="675" facs="tcp:120047:5"/>them; and that the ſaid Commiſſioners for Se<g ref="char:EOLhyphen"/>queſtrations, or ſo many of them as the ſaid Commiſſioners for Compounding ſhall appoint, ſhall keep or cauſe to be kept Courts within the ſeveral ſequeſtred Manors, and grant Copy<g ref="char:EOLhyphen"/>hold Eſtates, according to the Cuſtoms of the ſaid Manors, and aſſeſs and receive Fines for the ſame Eſtates to be ſo granted, according to the Cuſtoms, or to the Rules to be therein preſcribed by the ſaid Commiſſioners for Compounding, or any ſeven of them; Which ſaid Copyhold E<g ref="char:EOLhyphen"/>ſtates ſo granted, ſhall be good and effectual to the Tenant ſo admitted, againſt the party ſe<g ref="char:EOLhyphen"/>queſtred, and againſt all claiming by, from or un<g ref="char:EOLhyphen"/>der him or his Eſtate: And that the ſaid Com<g ref="char:EOLhyphen"/>miſſioners for Sequeſtrations ſhall further act in and about the premiſes, according to ſuch fur<g ref="char:EOLhyphen"/>ther Inſtructions and Directions as ſhall be given unto them, in purſuance of this Act, by the ſaid Commiſſioners for Compounding, or any ſeven of them, as any occaſion or exigent ſhall require. And that the ſaid Commiſſioners for Sequeſtrations ſhall have and retain to their own uſe for their Salary, Twelve pence in the pound of all ſuch Moneys as ſhall be paid by them into the Treaſury at <hi>Goldſmiths</hi> Hall, out of the Profits of the ſaid ſequeſtred Eſtates in the reſpective Counties and places; And that the other Officers that ſhall be named by the ſaid Commiſſioners for Compounding, ſhall have ſuch Salary and Allowance as the ſaid Commiſſioners for Compounding, or any ſeven of them ſhall think fit. And be it further En<g ref="char:EOLhyphen"/>acted by the Authority of this preſent Parlia<g ref="char:EOLhyphen"/>ment, That the ſaid Commiſſioners for Com<g ref="char:EOLhyphen"/>pounding, or any ſeven of them, ſhall have full
+<pb n="676" facs="tcp:120047:6"/>power to receive from any perſon or perſons, who ſhall preſent the ſame unto them, All and every Act, Ordinance or Orders of Parliament, whereby any charge is laid upon the Sequeſtra<g ref="char:EOLhyphen"/>tions, or ſequeſtred Eſtate of any ſuch Papiſt or Delinquent, and to examine the grounds and natures of them, and to ſtate the cauſe, and make ſpecial Report thereof to the Parliament for their Allowance or Diſcharge, or for their further Order and Directions therein, as the Parliament ſhall ſee cauſe; And ſhall alſo exa<g ref="char:EOLhyphen"/>mine all Rents, Quitrents, Outrents and Iſ<g ref="char:EOLhyphen"/>ſues that ſhall be pretended to be due and pay<g ref="char:EOLhyphen"/>able out of any ſuch Eſtate, and the nature of them; as alſo all Conveyances and Aſſurances of, and all other Charges, Incumbrances or Ingagements upon the ſaid Eſtates, or any part thereof, and to give allowance thereof, if it ſhall appear that the ſame were <hi>bona fide</hi> made or char<g ref="char:EOLhyphen"/>ged before the cauſe of ſuch Sequeſtration com<g ref="char:EOLhyphen"/>mitted. And it is further Enacted, That the ſaid Commiſſioners for Compounding, or any ſeven of them, ſhall have power to allow unto the Wives and Children of ſuch Papiſts in arms, and other Delinquents whoſe Eſtates ſhall re<g ref="char:EOLhyphen"/>main under Sequeſtration by vertue of this Act, one Fifth part of their ſaid ſequeſtred E<g ref="char:EOLhyphen"/>ſtates for their ſubſiſtence. And be it further Enacted by the Authority aforeſaid, That the Clerk of the late Committee of the Lords and Commons for Sequeſtrations, ſhall forthwith certifie unto the ſaid Commiſſioners for Com<g ref="char:EOLhyphen"/>pounding, the Names of all ſuch perſons whoſe Eſtates or any part thereof, having been ſeque<g ref="char:EOLhyphen"/>ſtred, either for Delinquency or Recuſancy, have upon their Appeals had the Sequeſtrations of
+<pb n="677" facs="tcp:120047:6"/>their Eſtates ſuſpended or taken off, either by the ſaid Committees of Lords and Commons, or by the Barons of the Exchequer; and the Names of all ſuch perſons as have upon their Appeals been Voted to be Delinquents, and to certifie the places of their abodes; and the Names of all ſuch perſons as now remain before the Barons of the Exchequer, upon their Ap<g ref="char:EOLhyphen"/>peals not yet determined, and the time when the ſaid parties Appealing did preſent their ſeveral Petitions and Appeals unto the Barons of the Exchequer; And the ſaid Barons are hereby re<g ref="char:EOLhyphen"/>quired to take care that Certificate be made ac<g ref="char:EOLhyphen"/>cordingly before the Five and twentieth day of <hi>February,</hi> One thouſand ſix hundred forty and nine; and that all ſuch whoſe Eſtates have up<g ref="char:EOLhyphen"/>on their Appeals been ſuſpended from Seque<g ref="char:EOLhyphen"/>ſtration by any Order from the late Committee of Lords and Commons for Sequeſtrations, or otherwiſe, whoſe Caſes ſhall not be determined before the Firſt day of <hi>March,</hi> One thouſand ſix hundred forty and nine, The ſaid ſuſpenſion ſhall be void, and the Sequeſtration again laid upon their Eſtates. And it is hereby further Enacted, That the Rents, Iſſues and Profits of all ſequeſtred Eſtates remaining in the hands of any Committees, Treaſurers, Sequeſtra<g ref="char:EOLhyphen"/>tors, Solicitors, Tenants, or other perſons whatſoever, ſhall be accompted for, and anſwer<g ref="char:EOLhyphen"/>ed unto the ſaid Commiſſioners for Compound<g ref="char:EOLhyphen"/>ing, and ſhall be ſatisfied and paid unto the ſaid Treaſurers at <hi>Goldſmiths</hi>-Hall, and not unto any other perſon or perſons whatſoever, Any other Act, Ordinance or Proviſion to the contrary notwithſtanding. And be it further Enacted, That all ſuch perſons who have been ſequeſtred
+<pb n="687" facs="tcp:120047:7"/>ſince the Firſt day of <hi>Auguſt,</hi> One thouſand ſix hundred forty and nine, or hereafter ſhall be ſe<g ref="char:EOLhyphen"/>queſtred for any Delinquency committed before the making of this Act; And all other perſons who upon the proſecution of their Appeals, have been or ſhall be adjudged Delinquents within the times herein before limited, ſhall upon their Petitions be admitted to Compoſition reſpe<g ref="char:EOLhyphen"/>ctively, according to the late Votes of Parlia<g ref="char:EOLhyphen"/>ment of the Fourteenth and One and twentieth of <hi>March,</hi> One thouſand ſix hundred forty and eight, ſo as they do proſecute their Compoſitions with effect, within ſix weeks after they ſhall be adjudged Delinquents as aforeſaid. And it is further Enacted and Ordained, That the Right, Title and Intereſt of all ſuch Rectories, Tythes, Portions of Tythes, and other Pro<g ref="char:EOLhyphen"/>fits and advantages as have been, or hereafter ſhall, upon the Compoſition of any Delinquent or Delinquents, be ſetled to or for the Benefit of any Miniſter or Church, by the Committee or Commiſsioners for Compounding, ſhall be good and effectual to all intents and purpoſes, and ſhall be enjoyed againſt ſuch Delinquent and Delinquents, and all claiming by, from or under him or them; or by, from or under any perſon or perſons in truſt for him or them, or to his or their uſe, benefit or behoof, ſince the cauſe of Sequeſtration; and alſo againſt all and eve<g ref="char:EOLhyphen"/>ry other perſon and perſons claiming any eſtate therein, who ſhall not make ſuch his Eſtate and Claim appear unto the ſaid Commiſsio<g ref="char:EOLhyphen"/>ners for Compounding, within the time of one year after his Right or Title ſhall accrew and grow due, or before the Firſt day of <hi>June,</hi> One
+<pb n="679" facs="tcp:120047:7"/>thouſand ſix hundred fifty five. And be it fur<g ref="char:EOLhyphen"/>ther Enacted by the authority aforeſaid, That all the Lands of Papiſts that are under Se<g ref="char:EOLhyphen"/>queſtration for Delinquency or Recuſancy, as alſo the third part that remains to the Recu<g ref="char:EOLhyphen"/>ſant; ſhall be, and hereby are diſcharged of and from all former Fines and Compoſitions for Recuſancy, and of and from all the Arrears due upon the ſame, ſince the ſaid Lands have been under Sequeſtration: And the Barons of the Exchequer, and all others whom it may con<g ref="char:EOLhyphen"/>cern are to take notice hereof.</p>
+            <p>Provided always, and be it Enacted by the authority aforeſaid, That this Act, nor any thing therein contained, doth or ſhall extend to the taking away of all or any the powers here<g ref="char:EOLhyphen"/>tofore granted to the Committee for advance of Money, commonly called, <hi>The Committee of Haberdaſhers</hi>-Hall. Provided, That this Act, or any thing therein contained, ſhall not ex<g ref="char:EOLhyphen"/>tend, or be conſtrued to extend to enable the ſaid Commiſſioners, or any imyloyed or to be imployed by them, to ſequeſter the chief Man<g ref="char:EOLhyphen"/>ſion Houſe of any Recuſant or Recuſants, having not been in Arms; or to debar the Lord of any Manor or Manors for the time being to enter into, or upon any Copyhold Eſtate of any Recuſant or Recuſants ſequeſtred, or lyable to Sequeſtration as aforeſaid; or to enable the ſaid Commiſsioners, or any to be imployed by them as aforeſaid, to make ſale of, or cut down any Timber or Timber-Trees, growing or ſtanding upon any part of the two parts of any Recuſant or Recuſants Lands or Eſtates ſe<g ref="char:EOLhyphen"/>queſtred, or lyable to Sequeſtration as afore<g ref="char:EOLhyphen"/>ſaid. Provided, That this Act ſhall not extend
+<pb n="680" facs="tcp:120047:8"/>to the taking away of any power given unto any Committee by any Order, Ordinance or Act of Parliament, for the ſequeſtring and re<g ref="char:EOLhyphen"/>moving ſcandalous and Delinquent Miniſters and School-maſters, but that they ſhall and may execute all power and authority given un<g ref="char:EOLhyphen"/>to them by ſuch Order, Ordinances or Acts of Parliament in relation to the ſaid ſervice, Any thing in this Act to the contrary in any wiſe notwithſtanding. Provided, That this Act continue in force for the ſpace of Two years, from the three and twentieth day of <hi>January,</hi> in the Year of our Lord, One thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty nine, and no longer.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Veneris,</hi> 25 <hi>Januarii,</hi> 1649.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+            <pb facs="tcp:120047:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
